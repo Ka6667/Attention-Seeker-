@@ -6,6 +6,8 @@
 * [Schematics](#schematics) 
 * [3D Model](#3d-model)
 ---
+<img width="1410" height="2000" alt="DUCKY!!!" src="https://github.com/user-attachments/assets/4b5f28c2-137d-467a-a14c-67023714cf76" />
+
 ## What is ATTENTION SEEKER?
 
 THIS IS THE END OF THE WORLD!! so everybody will basiclaly want a safe place to hide that's why we decided to make a guiding signs to the safe places using some LED strip and a motor using hologram effect! The desgin is very human and we added a tracking system to the nearest person the sign to grab his attention to the sign!!!!
